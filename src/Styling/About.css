@@ -1,0 +1,73 @@
+#about-me {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center; */
+
+    margin: 20px;
+}
+
+#about-me-inner {
+    /* border: black 2px solid; */
+}
+
+#about-me-title {
+    /* border: black 2px solid; */
+}
+
+#my-name-is {
+    text-align: left;
+    font-size: 30px;
+}
+
+#liam{
+font-weight: bold;
+color: #B87333;
+}
+
+#p1 {
+    text-align: left;
+    margin-right: 100px;
+    /* border: black 2px solid; */
+}
+
+#p2 {
+    text-align: left;
+    margin-right: 100px;
+    /* border: black 2px solid; */
+}
+
+#about-me-body {
+    display: grid;
+    grid-template-columns: 60% 20%;
+    grid-template-rows: auto auto;
+    justify-content: center;
+    left: 10%;
+
+}
+
+#pic-of-me {
+    width: 220px;
+    border: 5px #B87333 solid;
+    border-radius: 50rem;
+    margin-right: 100px;
+    margin-bottom: 60px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+}
+
+#about-break {
+    border: 1px solid #B87333;
+    background-color: #B87333;
+    margin: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+#about-break>p {
+    margin: 3px;
+}
+
+#about-dash {
+    color: #B87333;
+}
