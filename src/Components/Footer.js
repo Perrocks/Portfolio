@@ -5,7 +5,8 @@ const Footer = () => {
   return (
     <>
         <div id='footer'>
-            Footer placeholder
+
+          <p>Liam King 2023</p>
         </div>
     </>
   );

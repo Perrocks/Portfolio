@@ -18,11 +18,11 @@ const Contact = () => {
             <section id="email-section">
               <p id="email">E-mail: liamking@live.co.uk</p>
             </section>
-
+            <p id="contact-dash">|</p>
             <section id="github-section">
               <p id="github">GitHub: github.com/Perrocks</p>
             </section>
-
+            <p id="contact-dash">|</p>
             <section id="linkedin-section">
               <p id="linkedin">LinkedIn: linkedin.com/in/liam-king-ed/</p>
             </section>

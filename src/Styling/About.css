@@ -1,17 +1,5 @@
 #about-me {
-    /* display: flex;
-    flex-direction: row;
-    justify-content: center; */
-
     margin: 20px;
-}
-
-#about-me-inner {
-    /* border: black 2px solid; */
-}
-
-#about-me-title {
-    /* border: black 2px solid; */
 }
 
 #my-name-is {
@@ -27,13 +15,13 @@ color: #B87333;
 #p1 {
     text-align: left;
     margin-right: 100px;
-    /* border: black 2px solid; */
+
 }
 
 #p2 {
     text-align: left;
     margin-right: 100px;
-    /* border: black 2px solid; */
+
 }
 
 #about-me-body {

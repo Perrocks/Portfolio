@@ -17,9 +17,11 @@ const Skills = () => {
       <div id='skills-lists'>
 
         <section id='frontend-skills'>
-          <p id="skills-title">Frontend Skills</p>
+          
 
           <ul>
+          <p id="skills-title">Frontend Skills</p>
+
             <div id="about-dash">
               -
             </div>
@@ -43,9 +45,10 @@ const Skills = () => {
         </section>
 
         <section id='backend-skills'>
-          <p id="skills-title">Backend Skills</p>
+          
 
           <ul>
+          <p id="skills-title">Backend Skills</p>
             <div id="about-dash">
               -
             </div>
@@ -73,12 +76,22 @@ const Skills = () => {
             <div id="about-dash">
               -
             </div>
+            <li>Java</li>
+            <div id="about-dash">
+              -
+            </div>
+            <li>Spring</li>
+            <div id="about-dash">
+              -
+            </div>
+            
           </ul>
         </section>
 
         <section id='other-skills'>
-          <p id="skills-title">Other Skills</p>
+          
           <ul>
+          <p id="skills-title">Other Skills</p>
             <div id="about-dash">
               -
             </div>

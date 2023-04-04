@@ -24,14 +24,14 @@ const About = () => {
               My name is <span id="liam">Liam</span>.
             </p>
             <p id="p1">
-              I am an Edinburgh based Junior Software Developer currently learning to code at CodeClan. Coming from a background in pharmacy, I have a passion for helping others and I want to continue doing so in my new career.
+              I am an Edinburgh based Junior Software Developer who recently completed the Professional Software Development course at CodeClan. Coming from a background in pharmacy, I have a passion for helping others and I want to continue doing so in my new career.
             </p>
             <p id="p2">
-              My previous career taught me the importance of working accurately, efficiently and confidentially. I hope I can use my new found coding powers for good!
+              My previous career taught me the importance of working accurately, efficiently and confidentially. I hope I can combine these principles with my new skills in coding.
             </p>
             </div>
             <section id="pic-of-me-container">
-              <img id="pic-of-me" src={PicOfLiam} alt="A hairy man" />
+              <img id="pic-of-me" src={PicOfLiam} alt="A hairy ginger man" />
             </section>
           </section>
 

@@ -3,25 +3,29 @@
     flex-direction: row;
     justify-content: center;
     margin-bottom: 30px;
+    margin-right:5%;
 }
 
 #frontend-skills {
     padding: 20px;
+    
 }
 
-#frontend-skills>p{
+#frontend-skills> ul > p{
     font-weight: bold;
+    
 }
 
 #frontend-skills>ul {
     list-style: none;
+
 }
 
 #backend-skills {
     padding: 20px
 }
 
-#backend-skills>p{
+#backend-skills> ul >p{
     font-weight: bold;
 }
 
@@ -33,7 +37,7 @@
     padding: 20px
 }
 
-#other-skills>p{
+#other-skills>ul >p{
     font-weight: bold;
 }
 
@@ -42,7 +46,9 @@
 }
 
 #skills-title{
-    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #skills-break {
